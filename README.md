@@ -224,6 +224,17 @@ Rental market overview with rent dynamics, renovation, furnished status, pet pol
 
 ML-based investment dashboard showing predicted sale price, predicted rent, predicted rental yield and investment score.
 
+## Key Findings
+
+Based on the prepared datasets, machine learning predictions and Power BI dashboard, the project highlights several market patterns:
+
+* Central districts such as Arbat, Khamovniki, Tverskoy, Presnensky and Yakimanka show the highest median sale prices per square meter.
+* New builds generally have higher average sale prices than secondary market listings, especially in more central distance-to-center groups.
+* Rental prices are strongly affected by apartment size, renovation quality and furnished status.
+* The highest predicted rental yields are not concentrated in the most expensive central districts. Several outer districts show stronger yield potential because predicted purchase prices are lower relative to expected rent.
+* Predicted rental yield tends to decrease closer to the city center, where sale prices grow faster than rents.
+* The investment analysis should be interpreted as a comparative screening tool, not as a direct investment recommendation, because gross rental yield does not include taxes, vacancy, maintenance, mortgage payments or transaction costs.
+
 The dashboard file is available here:
 
 ```text
