@@ -281,6 +281,8 @@ This metric does not include:
 * renovation costs
 * property management expenses
 
+Model validation currently uses a random train-test split. For real forecasting use cases, a time-based validation split would be more appropriate because the real estate market changes over time.
+
 Therefore, the investment score should be interpreted as a comparative analytical indicator, not as financial advice.
 
 ---
