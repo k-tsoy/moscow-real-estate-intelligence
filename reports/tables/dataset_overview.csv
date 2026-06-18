@@ -1,0 +1,6 @@
+dataset,file_name,rows,columns,duplicates,missing_values_total
+secondary_market,secondary_market.csv,50000,26,0,0
+rentals,rentals.csv,20000,22,0,0
+new_builds,new_builds.csv,8000,25,0,0
+metro_stations,metro_stations.csv,104,6,0,0
+district_prices_monthly,district_prices_monthly.csv,9804,13,0,258

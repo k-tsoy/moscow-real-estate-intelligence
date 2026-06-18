@@ -1,0 +1,14 @@
+metric,value
+sales_listings,56842.0
+secondary_listings,49001.0
+new_builds_listings,7841.0
+rental_listings,19605.0
+avg_sale_price_rub,12976632.7
+median_sale_price_rub,11241000.0
+avg_sale_price_per_sqm,201446.39
+median_sale_price_per_sqm,178100.0
+avg_monthly_rent_rub,51440.26
+median_monthly_rent_rub,45800.0
+avg_rent_per_sqm,934.03
+median_rent_per_sqm,845.0
+avg_rental_yield_pct,4.92

@@ -1,0 +1,12 @@
+okrug,listings_count,avg_predicted_sale_price_rub,median_predicted_sale_price_rub,avg_predicted_sale_price_mln,median_predicted_sale_price_mln,avg_predicted_monthly_rent_rub,median_predicted_monthly_rent_rub,avg_predicted_monthly_rent_thousand,median_predicted_monthly_rent_thousand,avg_predicted_rental_yield_pct,median_predicted_rental_yield_pct,avg_area,avg_to_center_km,investment_score
+NAO,1679,6043036.34,5752052.57,6.04,5.75,31549.98,30217.05,31.55,30.22,6.28,6.28,55.17,26.13,High Yield
+SZAO,1451,12336484.39,11777771.87,12.34,11.78,60208.05,56373.41,60.21,56.37,5.93,5.84,55.12,14.8,Medium Yield
+YuZAO,1880,13008704.14,12273895.23,13.01,12.27,63318.31,59975.22,63.32,59.98,5.92,5.82,55.7,13.05,Medium Yield
+ZAO,1838,13160488.4,12306334.27,13.16,12.31,63438.47,60180.36,63.44,60.18,5.91,5.79,55.47,13.19,Medium Yield
+YuAO,2519,9614858.62,8906991.34,9.61,8.91,46175.09,43310.06,46.18,43.31,5.81,5.76,55.5,12.97,Medium Yield
+VAO,2431,10045418.29,9421179.96,10.05,9.42,48397.57,45738.56,48.4,45.74,5.8,5.75,55.4,11.55,Medium Yield
+SVAO,2588,9443053.11,8880698.27,9.44,8.88,44954.84,42707.13,44.95,42.71,5.74,5.69,55.07,12.1,Medium Yield
+SAO,2367,10935589.68,10158749.27,10.94,10.16,51352.51,48130.3,51.35,48.13,5.71,5.65,55.43,11.78,Medium Yield
+ZelAO,137,5751491.8,5533296.51,5.75,5.53,27457.48,26085.36,27.46,26.09,5.7,5.65,55.2,37.09,Medium Yield
+TAO,1398,4208923.38,4045639.23,4.21,4.05,19406.18,18586.18,19.41,18.59,5.55,5.57,56.95,51.74,Medium Yield
+CAO,1317,23433414.01,23337489.51,23.43,23.34,98698.39,99500.67,98.7,99.5,5.13,5.06,53.74,3.13,Medium Yield

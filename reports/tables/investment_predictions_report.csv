@@ -1,0 +1,4 @@
+table_name,rows,columns
+investment_predictions.csv,19605,46
+district_investment_summary.csv,129,20
+okrug_investment_summary.csv,11,15

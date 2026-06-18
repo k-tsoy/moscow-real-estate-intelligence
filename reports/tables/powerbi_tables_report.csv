@@ -1,0 +1,12 @@
+table_name,rows,columns
+sales_listings.csv,56842,29
+rentals_listings.csv,19605,38
+district_monthly.csv,9804,17
+metro_stations.csv,104,6
+district_summary.csv,129,24
+okrug_summary.csv,11,16
+sales_by_month.csv,140,13
+rentals_by_month.csv,64,11
+room_summary.csv,10,15
+distance_summary.csv,10,12
+market_kpi.csv,13,2

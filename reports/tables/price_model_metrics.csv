@@ -1,0 +1,5 @@
+model,mae_rub,mae_mln_rub,rmse_rub,rmse_mln_rub,r2,mape_pct
+random_forest,1998427.07,2.0,2865074.26,2.87,0.8556,15.86
+gradient_boosting,2036463.21,2.04,2867113.62,2.87,0.8554,16.33
+linear_regression,2555425.27,2.56,3494768.47,3.49,0.7851,22.74
+baseline_median,5589408.74,5.59,7755324.88,7.76,-0.0581,52.72

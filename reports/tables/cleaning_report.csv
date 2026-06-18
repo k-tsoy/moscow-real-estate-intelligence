@@ -1,0 +1,6 @@
+dataset,rows,columns,missing_values
+secondary_clean,49001,42,0
+rentals_clean,19605,37,0
+new_builds_clean,7841,37,0
+district_monthly_clean,9804,17,258
+sales_clean,56842,28,0
